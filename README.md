@@ -16,11 +16,10 @@
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/BOTTONLINA/) 
 <br>
 <br>
-
-
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=BOTTONLINA)
+<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bottonlina&theme=black-ice)](https://git.io/streak-stats)
 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/BOTTONLINA/) 
 
 
-<img src="https://camo.githubusercontent.com/bdbb2474adf0c6af092dc875586021426b94672e2284ca6a13396f7f26cea091/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d4c6172797373614265617472697a267468656d653d7368616465732d6f662d707572706c6526686964655f626f726465723d7472756526646174655f666f726d61743d4d2532306a25354225324325323059253544" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com?user=bottonlina&amp;theme=shades-of-purple&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D" style="max-width: 80%;">
+
