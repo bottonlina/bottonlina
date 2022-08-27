@@ -1,6 +1,6 @@
 # Hi 🖖 stranger. I'm Bottonlina!
 
-<p>I’m <b>Software engineering Student, Web dev.beginner and an enthusiast of UX Designer</b></p>
+<p>I’m <b>Software engineering Student, Web dev. beginner and an enthusiast of UX Designer</b></p>
 
 20 yrs ago I used to create websites on VB and currently I wanna discover the tech universe again!
 <br>
