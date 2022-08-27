@@ -11,7 +11,7 @@
 , <img src="https://cdn.cdnlogo.com/logos/m/30/mongodb-icon.svg" width="30" height="30"/>,  <img src="https://img2.gratispng.com/20180715/ujy/kisspng-user-experience-design-user-interface-design-rsu-digital-transformation-icon-5b4b2d82efcfe9.0945611415316535069823.jpg" width="23" height="23"/> and participating on my first <b>Bootcamp</b>!</p>
 <br>
 
-<P>I'm looking for <b>internships/job</b>, so don't be shy in indicating me!</P>
+<P>I'm looking for <b>internship/job/freela</b>, so don't be shy in indicating me!</P>
 
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/BOTTONLINA/) 
 <br>
