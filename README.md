@@ -6,9 +6,7 @@ I’m <b>Software engineering Student, Web dev. beginner and an enthusiast of UX
 
 20 yrs ago I used to create websites on VB and currently I wanna discover the tech universe again!
 
-I'm learning at the moment <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="21" height="21"/>
-, <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="21" height="21"/>
-, <img src="https://cdn.cdnlogo.com/logos/m/30/mongodb-icon.svg" width="27" height="27"/>,  <img src="https://img2.gratispng.com/20180715/ujy/kisspng-user-experience-design-user-interface-design-rsu-digital-transformation-icon-5b4b2d82efcfe9.0945611415316535069823.jpg" width="23" height="23"/> and participating on my first <b>Bootcamp</b>!
+I'm learning at the moment <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="21" height="21"/>,  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="21" height="21"/>, &nbsp;<img src="https://p1.hiclipart.com/preview/951/574/485/react-logo-javascript-redux-vuejs-angular-angularjs-expressjs-front-and-back-ends-png-clipart.jpg" width="19" height="21"/>,&nbsp;<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="21" height="21"/>&nbsp;,<img src="https://cdn.cdnlogo.com/logos/m/30/mongodb-icon.svg" width="26" height="27"/>,  <img src="https://img2.gratispng.com/20180715/ujy/kisspng-user-experience-design-user-interface-design-rsu-digital-transformation-icon-5b4b2d82efcfe9.0945611415316535069823.jpg" width="23" height="23"/> and participating on my first <b>Bootcamp</b>!
 
 <br><br>
 
