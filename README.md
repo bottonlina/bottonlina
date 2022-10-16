@@ -2,7 +2,7 @@
 
 <br>
 
-I’m <b>Software engineering Student, Web dev. beginner and an enthusiast of UX Designer</b>
+I’m <b>Software engineering Student, Web dev. and an enthusiast of UX Designer</b>
 
 20 yrs ago I used to create websites on VB and currently I wanna discover tech universe again!
 
